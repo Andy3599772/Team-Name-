@@ -79,4 +79,4 @@ Andy's test results:
 
 ![Andy](andy test 3.png)
 
-The test results show my way of living in general and have my attitude at work analyzed. Big Five Personality test judges that preference for me not seeking much attention from others, and corporate instead of compete is preferred, as the grade for extraversion is 40% and agreeableness is 58%. The results may not be 100% correct and won’t affect my preference of choosing a group. Nonetheless, it provided a clear picture of my role in a team.
+The test results show my way of living in general and have my attitude at work analyzed. Big Five Personality test judges that preference for me not seeking much attention from others, and corporate instead of compete is preferred, as the grade for extraversion is 40% and agreeableness is 58%. They provided a clearer picture of my role in a team. I am a member who is open to others plan and experience. Still, stick to similar people is better
