@@ -1,4 +1,9 @@
-# Team Profile
+<!DOCTYPE html>
+<html>
+<body style="background-color:orange;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
 **Team Name**: 'Team Name'
 
@@ -18,7 +23,7 @@
 
 **Date of Birth**: 21/08/1996
 
-.center[My name is Colin Madusanka Jayasekara but my full name is Jayasekara Mudiyanselage Colin Madusanka Jayasekara which happens to be title given by kings to those who are loyal to the throne, I was born on 21st August 1996. My Student ID is S3670061 and my email is S3670061@student.rmit.edu.au. I am a Sri Lankan born in Colombo, Sri Lanka and I was born to a Buddhist family, hence I am classified as a Buddhist. I am a 23-year-old Male with a height of 173cm (or 5’8) and I am currently living in Melbourne, Australia attending The Royal Melbourne Institute of Technology (RMIT) studying for my Bachelors of Engineering in Aerospace Engineering, I am due to complete my course in 2021 and I hope to be working in an aerospace company or start my own in Australia or Sri Lanka, I also speak 2 languages Sinhala and English and I am also open to learning more languages. My favorite hobbies include playing games, watching videos on YouTube and daydreaming about multitudes of possibilities that might/might not occur. I also like to research random things on the internet when it comes to my mind, like how to code in Python or how to make mini Drones/Rockets or watching any other sort of documentary that I feel like intrigues or interests me. Our team name for this project is “Team Name” since we thought it would be ironic and deadpan funny for a team to have such a name.]
+My name is Colin Madusanka Jayasekara but my full name is Jayasekara Mudiyanselage Colin Madusanka Jayasekara which happens to be title given by kings to those who are loyal to the throne, I was born on 21st August 1996. My Student ID is S3670061 and my email is S3670061@student.rmit.edu.au. I am a Sri Lankan born in Colombo, Sri Lanka and I was born to a Buddhist family, hence I am classified as a Buddhist. I am a 23-year-old Male with a height of 173cm (or 5’8) and I am currently living in Melbourne, Australia attending The Royal Melbourne Institute of Technology (RMIT) studying for my Bachelors of Engineering in Aerospace Engineering, I am due to complete my course in 2021 and I hope to be working in an aerospace company or start my own in Australia or Sri Lanka, I also speak 2 languages Sinhala and English and I am also open to learning more languages. My favorite hobbies include playing games, watching videos on YouTube and daydreaming about multitudes of possibilities that might/might not occur. I also like to research random things on the internet when it comes to my mind, like how to code in Python or how to make mini Drones/Rockets or watching any other sort of documentary that I feel like intrigues or interests me. Our team name for this project is “Team Name” since we thought it would be ironic and deadpan funny for a team to have such a name.
 
 Individual website: [Colin's website](https://colinjayasekara.github.io/?fbclid=IwAR3ECfmlPpG9mkYEJloz5BvL4W23hQQEVSz7JTlk6spQVdvwqAI-8UvlnKU) 
 
@@ -262,3 +267,6 @@ The level of expertise required to make any of our project ideas become a realit
 
 **At least one thing that you have learned about groups**
 The level of responsibility a team leader must have is immense, there's alot of factors to consider as well as obstacles faced during the course of this project, and finding answers when you are placed on the spot as a team leader is anxiety-inducing as well as requiring a high level of tolerance and patience. All of which will be tested throughout the course of this project. Teamwork is also paramount to the successful completion of any project and without teamwork, the overall morale and efficiency of the group lowers which affects team performance.
+
+</body>
+</html>
